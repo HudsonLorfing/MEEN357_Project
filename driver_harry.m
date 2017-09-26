@@ -15,7 +15,7 @@ value02 = 6 * 12 + 5;  % inches
 value03 = 30;          % inches
 value04 = 200;         % pounds
 
-% The data struct for Harry follows below.
+% The data struct for Harry follows below.    
 
 pilot = struct(field01, value01, field02, value02, ...
                field03, value03, field04, value04);
